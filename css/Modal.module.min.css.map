@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,AAAC,CACP,QAAQ,CAAE,KAAK,CACf,GAAG,CAAE,CAAC,CACN,IAAI,CAAE,CAAC,CACP,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,KAAK,CACb,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,MAAM,CACvB,WAAW,CAAE,MAAM,CACnB,gBAAgB,CAAE,eAAkB,CACpC,OAAO,CAAE,IAAI,CACd,AAED,AAAA,MAAM,AAAC,CACL,SAAS,CAAE,kBAAkB,CAC7B,UAAU,CAAE,kBAAkB,CAC/B",
+    "sources": [
+        "../src/components/Modal/Modal.module.scss"
+    ],
+    "names": [],
+    "file": "Modal.module.min.css"
+}

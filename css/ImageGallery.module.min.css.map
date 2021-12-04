@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,AAAC,CACZ,OAAO,CAAE,IAAI,CACb,SAAS,CAAE,kBAAkB,CAC7B,qBAAqB,CAAE,qCAAqC,CAC5D,QAAQ,CAAE,IAAI,CACd,UAAU,CAAE,CAAC,CACb,aAAa,CAAE,CAAC,CAChB,OAAO,CAAE,CAAC,CACV,UAAU,CAAE,IAAI,CAChB,WAAW,CAAE,IAAI,CACjB,YAAY,CAAE,IAAI,CACnB",
+    "sources": [
+        "../src/components/ImageGallery/ImageGallery.module.scss"
+    ],
+    "names": [],
+    "file": "ImageGallery.module.min.css"
+}
